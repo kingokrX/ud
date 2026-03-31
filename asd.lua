@@ -1,3 +1,1 @@
-while true do 
-    print("get raped nigger")
-end
+print("get raped nigger")
