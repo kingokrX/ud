@@ -1,1 +1,0 @@
-print("get raped nigger")
